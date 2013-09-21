@@ -7,6 +7,3 @@ ERR: 模板不存在[./Home/Tpl/Index/index.html]
 [ 2013-09-21T15:25:31+08:00 ] 127.0.0.1 /thinkphp/index.php?XDEBUG_SESSION_START=netbeans-xdebug
 ERR: 模板不存在[./Home/Tpl/Index/index.html]
 
-[ 2013-09-21T15:41:18+08:00 ] 127.0.0.1 /thinkphp/index.php
-ERR: 模板不存在[./Home/Tpl/Index/index.html]
-
